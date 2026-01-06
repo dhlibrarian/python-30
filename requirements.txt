@@ -1,0 +1,25 @@
+# Requirements for Introduction to Python Workshop
+# 12-session Jupyter Notebook series
+
+# Core packages
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Additional utilities (optional but recommended)
+ipython>=8.12.0
+ipykernel>=6.22.0
+
+# For better notebook experience
+ipywidgets>=8.0.0
+
+# Installation instructions:
+# Run: pip install -r requirements.txt
+# Or with conda: conda install --file requirements.txt
