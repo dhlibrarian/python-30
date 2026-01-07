@@ -31,6 +31,12 @@ This repository contains 12 Jupyter notebooks for teaching Python fundamentals t
 
 ### Installation
 
+#### Option 0: Using Binder
+
+Open a new browser page and enter the following address:
+`https://mybinder.org/v2/gh/dhlibrarian/python-30/main`
+Use the `index.ipynb` file to navigate to the correct session.
+
 #### Option 1: Using pip
 ```bash
 # Create virtual environment (recommended)
