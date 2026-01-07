@@ -35,6 +35,7 @@ This repository contains 12 Jupyter notebooks for teaching Python fundamentals t
 
 Open a new browser page and enter the following address:
 `https://mybinder.org/v2/gh/dhlibrarian/python-30/main`
+
 Use the `index.ipynb` file to navigate to the correct session.
 
 #### Option 1: Using pip
@@ -96,26 +97,6 @@ Each 30-minute session includes:
 4. **Show real examples**: Connect concepts to real-world applications
 5. **Flexible pacing**: Adjust timing based on group needs
 
-## 📂 File Structure
-
-```
-notebooks/
-├── session_01_calculator_and_variables.ipynb
-├── session_02_strings_and_text.ipynb
-├── session_03_lists_and_collections.ipynb
-├── session_04_loops_and_iteration.ipynb
-├── session_05_conditionals_and_decisions.ipynb
-├── session_06_dictionaries.ipynb
-├── session_07_functions.ipynb
-├── session_08_files.ipynb
-├── session_09_pandas_intro.ipynb
-├── session_10_data_cleaning.ipynb
-├── session_11_visualization.ipynb
-├── session_12_capstone.ipynb
-├── requirements.txt
-└── README.md
-```
-
 ## 🎓 Learning Outcomes
 
 By the end of this workshop, participants will be able to:
@@ -171,7 +152,7 @@ These educational materials are provided for teaching purposes. Feel free to ada
 
 ## ✨ About
 
-Created for librarians teaching digital scholarship workshops. Designed to provide practical, immediately useful Python skills through hands-on projects that participants can adapt to their own research needs.
+Created using Claude.ai for librarians teaching digital scholarship workshops. Designed to provide practical, immediately useful Python skills through hands-on projects that participants can adapt to their own research needs.
 
 ---
 
