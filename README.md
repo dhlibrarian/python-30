@@ -77,7 +77,6 @@ The workshop requires these Python packages:
 - **pandas** - Data manipulation and analysis
 - **numpy** - Numerical computing
 - **matplotlib** - Data visualization
-- **seaborn** - Statistical visualizations (optional)
 
 All packages are listed in `requirements.txt`
 
